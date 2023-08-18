@@ -1,0 +1,25 @@
+﻿  Main.cpp
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\include\Voro\pre_container.hh(61,51): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(33,16): warning C4305: “初始化”: 从“double”到“float”截断
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(33,29): warning C4305: “初始化”: 从“double”到“float”截断
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(58,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(58,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(77,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(163,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(173,47): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(192,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(229,41): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(244,56): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(270,26): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(275,40): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\src\Main.cpp(276,22): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  BasicCGAL12171.vcxproj -> E:\games102课程\参考作业\HW10-report\优秀代码\venitable\Project\x64\Debug\Crust.exe
